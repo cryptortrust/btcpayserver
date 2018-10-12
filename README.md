@@ -91,3 +91,7 @@ On linux:
 ## Other dependencies
 
 For more information see the documentation [How to deploy a BTCPay server instance](https://github.com/btcpayserver/btcpayserver-doc/#deployment).
+
+Hosting BTCPay Server for cheap …and without credit card
+https://medium.com/@BtcpayServer/hosting-btcpay-server-for-cheap-2b27761fdb9d
+
