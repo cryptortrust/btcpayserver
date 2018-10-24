@@ -20,6 +20,9 @@ The self-hosted solution allows you not only to attach an unlimited number of st
 
 Thanks to the apps built on top of it, you can use BTCPay to receive donations or have an in-store POS system.
 
+ Year After Launch, BTCPay Has Grown Larger Than Its Creator Expected
+https://bitcoinmagazine.com/articles/year-after-launch-btcpay-has-grown-larger-its-creator-expected/
+
 ## Features
 
 * Direct, P2P Bitcoin payments
