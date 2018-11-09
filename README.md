@@ -98,3 +98,8 @@ For more information see the documentation [How to deploy a BTCPay server instan
 Hosting BTCPay Server for cheap …and without credit card
 https://medium.com/@BtcpayServer/hosting-btcpay-server-for-cheap-2b27761fdb9d
 
+Open Source bitcoin payment service for merchants
+https://www.bitcoinisle.com/2018/10/01/gobyte-releases-free-service-for-merchants-to-work-with-cryptocurrency/
+
+Dentralized with Dorier
+https://www.bitcoinisle.com/2018/08/18/no-more-coinbase-and-bitpay-process-your-own-bitcoin-payments-for-6-a-month/
